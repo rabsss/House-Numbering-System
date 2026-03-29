@@ -106,5 +106,3 @@ The script produces:
 * Line data linking buildings to their corresponding roads
 
 The point dataset also includes the **third-level hierarchy road `Unique_ID`**, which can be used to join with the original road dataset to retrieve road names.
-* Create a **sample formula / pseudo-code**
-* Or structure this as a **publishable portfolio project (very strong for jobs & research)** 👍
