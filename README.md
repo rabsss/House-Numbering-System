@@ -106,3 +106,14 @@ The script produces:
 * Line data linking buildings to their corresponding roads
 
 The point dataset also includes the **third-level hierarchy road `Unique_ID`**, which can be used to join with the original road dataset to retrieve road names.
+
+## Developed By
+
+- [@rabsss](https://github.com/rabsss)
+- [@arunbhomi](https://github.com/arunbhomi)
+
+## 🏢 Organization
+
+This project was developed as part of work conducted at **Kathmandu Metropolitan City (KMC)**.
+
+The implementation supports municipal efforts in building a standardized, GIS-based house numbering system to improve urban management, navigation, and service delivery.
